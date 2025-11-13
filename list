@@ -1,8 +1,4 @@
-#blackboard.jamfcloud.com # remote controlling crap
-#jamfcloud.com # remote controlling crap
-#blackboardinc.jamfcloud.com # Jamf remote spyware crap
-#
 # 20251113 https://www.reddit.com/r/mac/comments/pi9beh/bypass_remote_management_on_macbook_pro_after/
-iprofiles.apple.com
-mdmenrollment.apple.com
-deviceenrollment.apple.com
+0.0.0.0 iprofiles.apple.com
+0.0.0.0 mdmenrollment.apple.com
+0.0.0.0 deviceenrollment.apple.com
