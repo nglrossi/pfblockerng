@@ -1,3 +1,10 @@
-0.0.0.0 iprofiles.apple.com
-0.0.0.0 mdmenrollment.apple.com
-0.0.0.0 deviceenrollment.apple.com
+!
+! Title: Angelo's crap blocking list
+! Description: Blocks stuff that personally I dont want.
+! Version: 0.0.1
+! Homepage: https://github.com/nglrossi/pfblockerng
+! Last modified: 2025-11-13T19:07:07.671Z
+!
+||iprofiles.apple.com^
+||mdmenrollment.apple.com^
+||deviceenrollment.apple.com^
