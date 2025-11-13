@@ -1,10 +1,3 @@
-!
-! Title: Angelo's crap blocking list
-! Description: Blocks stuff that personally I dont want.
-! Version: 0.0.1
-! Homepage: https://github.com/nglrossi/pfblockerng
-! Last modified: 2025-11-13T19:07:07.671Z
-!
-||iprofiles.apple.com^
-||mdmenrollment.apple.com^
-||deviceenrollment.apple.com^
+iprofiles.apple.com
+mdmenrollment.apple.com
+deviceenrollment.apple.com
