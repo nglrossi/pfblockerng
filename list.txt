@@ -1,3 +1,5 @@
 iprofiles.apple.com
 mdmenrollment.apple.com
 deviceenrollment.apple.com
+mask.icloud.com
+mask-h2.icloud.com
